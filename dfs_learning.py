@@ -1,5 +1,11 @@
 # DFS Graph Traversal
 
+# Steps to create DFS
+# 1. Create a graph
+# 2. Create a function to traverse the graph using DFS
+# 3. Create a function to print the visited nodes
+
+
 def graph_dfs(graph, start, visited=None):
     if visited is None:
         visited = set() # Create a new set to store visited nodes
