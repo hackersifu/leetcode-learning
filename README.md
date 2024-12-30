@@ -2,6 +2,7 @@
 Details on how to use Leetcode concepts
 
 ## Leetcode Concepts
+- Always map it to input -> transform -> output
 
 ### DFS (Depth First Search)
 Search down a tree or graph as far as possible before backtracking.
